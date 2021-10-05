@@ -3,7 +3,7 @@
     "displayName": "StateMachines",
     "version": "1.0.0",
     "unity": "2019.1",
-    "description": "Test private asset",
+    "description": "My state machine implementation",
     "keywords": [
       "unity"
     ],
